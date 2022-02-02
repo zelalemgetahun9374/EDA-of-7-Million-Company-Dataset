@@ -25,7 +25,7 @@ The project is implemented in the following phases.
 2. Univariate analysis
 3. Feature engineering
 4. Bivariate analysis
-5. Filtering data and dnswering business questions
+5. Filtering data and answering business questions
 
 ## Project Structure
 The repository has a number of files including python scripts, a jupyter notebook, and text files. Here is their structure with a brief explanation.
